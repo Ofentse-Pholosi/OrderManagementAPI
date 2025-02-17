@@ -1,5 +1,4 @@
 using MediatR;
-using Microsoft.Extensions.Options;
 using OrderManagementAPI.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
