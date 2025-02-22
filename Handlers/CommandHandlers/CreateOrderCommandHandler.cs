@@ -1,5 +1,4 @@
 ﻿using MediatR;
-using MongoDB.Driver;
 using OrderManagementAPI.Commands;
 using OrderManagementAPI.Entities;
 using OrderManagementAPI.Repositories;
